@@ -45,5 +45,8 @@ samples, guidance on mobile development, and a full API reference.
 ## [OTTOM NAV BAR • Flutter Widget of the Day #09](https://www.youtube.com/watch?v=qk-a_Qgc6b0&list=PLlvRDpXh1Se5LTJZDrUF9h1_1AT4Raxjd&index=10)
 <img width="100" alt="スクリーンショット 2023-04-26 20 25 50" src="https://user-images.githubusercontent.com/47273077/234561079-72eabe7c-739d-42bf-b1e9-2b9a777c3c84.png">
 
+## [APP BAR • Flutter Widget of the Day #10](https://www.youtube.com/watch?v=IdyPjhBqXlg)
+
+<img width="100" alt="スクリーンショット 2023-04-26 20 37 47" src="https://user-images.githubusercontent.com/47273077/234563475-aaf2b425-7ec2-42ce-a2bb-a1e7478d359c.png">
 
 
