@@ -1,6 +1,5 @@
 # widget_of_the_kyo
-
-A new Flutter project.
+https://github.com/md-siam/widget_of_the_day
 
 ## Getting Started
 
