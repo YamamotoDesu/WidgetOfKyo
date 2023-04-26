@@ -16,4 +16,4 @@ For help getting started with Flutter development, view the
 samples, guidance on mobile development, and a full API reference.
 
 ## [CONTAINER • Flutter Widget of the Day #01](https://www.youtube.com/watch?v=X47zIAGIJNE&list=PLlvRDpXh1Se5LTJZDrUF9h1_1AT4Raxjd)
-<img width="300" alt="スクリーンショット 2023-04-26 14 05 37" src="https://user-images.githubusercontent.com/47273077/234474708-1e6d9fe3-7839-41b7-ad49-d6952b3b7637.png">
+<img width="100" alt="スクリーンショット 2023-04-26 14 05 37" src="https://user-images.githubusercontent.com/47273077/234474708-1e6d9fe3-7839-41b7-ad49-d6952b3b7637.png">
