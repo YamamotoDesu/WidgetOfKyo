@@ -1,5 +1,6 @@
 import 'package:flutter/material.dart';
-import 'package:widget_of_the_kyo/2_expanded/expanded.dart';
+import 'package:widget_of_the_kyo/3_columns_rows/columns_rows.dart';
+
 
 void main() {
   runApp(const MyApp());
@@ -16,7 +17,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: const HomPage2(),
+      home: const HomePage3(),
     );
   }
 }
