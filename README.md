@@ -30,8 +30,6 @@ samples, guidance on mobile development, and a full API reference.
 ## [GRIDVIEW & BUILDER • Flutter Widget of the Day #07](https://www.youtube.com/watch?v=nUBMK7UEQ1Q&list=PLlvRDpXh1Se5LTJZDrUF9h1_1AT4Raxjd&index=7)
 <img width="100" alt="スクリーンショット 2023-04-26 18 02 21" src="https://user-images.githubusercontent.com/47273077/234525925-e0873d19-5aab-4702-a9c0-e016a12a68b3.png">
 
-
-
 ## [Round Corners • Flutter Widget of the Day #05](https://www.youtube.com/watch?v=yxYntGhRzGM&list=PLlvRDpXh1Se5LTJZDrUF9h1_1AT4Raxjd&index=5)
 <img width="100" alt="スクリーンショット 2023-04-26 17 04 41" src="https://user-images.githubusercontent.com/47273077/234510708-99111047-e54b-42a5-aec8-6c69e07476a6.png">
 
@@ -40,3 +38,7 @@ samples, guidance on mobile development, and a full API reference.
 
 ## [GRIDVIEW & BUILDER • Flutter Widget of the Day #07](https://www.youtube.com/watch?v=nUBMK7UEQ1Q&list=PLlvRDpXh1Se5LTJZDrUF9h1_1AT4Raxjd&index=7)
 <img width="100" alt="スクリーンショット 2023-04-26 18 03 00" src="https://user-images.githubusercontent.com/47273077/234526109-8010a3e1-5476-4bed-93a8-0cc4fbcbc019.png">
+
+## [GESTURE DETECTOR • Flutter Widget of the Day #08](https://www.youtube.com/watch?v=iTrqA8Ec0gQ&list=PLlvRDpXh1Se5LTJZDrUF9h1_1AT4Raxjd&index=8)
+<img width="100" alt="スクリーンショット 2023-04-26 18 30 26" src="https://user-images.githubusercontent.com/47273077/234533993-3e306735-a4b1-41e0-8884-193e53c2c5e1.png">
+
