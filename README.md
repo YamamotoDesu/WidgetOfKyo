@@ -16,3 +16,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## [CONTAINER • Flutter Widget of the Day #01](https://www.youtube.com/watch?v=X47zIAGIJNE&list=PLlvRDpXh1Se5LTJZDrUF9h1_1AT4Raxjd)
 <img width="100" alt="スクリーンショット 2023-04-26 14 05 37" src="https://user-images.githubusercontent.com/47273077/234474708-1e6d9fe3-7839-41b7-ad49-d6952b3b7637.png">
+
+## [EXPANDED • Flutter Widget of the Day #02](https://www.youtube.com/watch?v=aHT7HF8sV14&list=PLlvRDpXh1Se5LTJZDrUF9h1_1AT4Raxjd&index=2)
+<img width="100" alt="スクリーンショット 2023-04-26 15 30 42" src="https://user-images.githubusercontent.com/47273077/234488697-21bb9778-7a13-4db3-97e4-449356e5f3a5.png">
