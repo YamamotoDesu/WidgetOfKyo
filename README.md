@@ -42,3 +42,8 @@ samples, guidance on mobile development, and a full API reference.
 ## [GESTURE DETECTOR • Flutter Widget of the Day #08](https://www.youtube.com/watch?v=iTrqA8Ec0gQ&list=PLlvRDpXh1Se5LTJZDrUF9h1_1AT4Raxjd&index=8)
 <img width="100" alt="スクリーンショット 2023-04-26 18 30 26" src="https://user-images.githubusercontent.com/47273077/234533993-3e306735-a4b1-41e0-8884-193e53c2c5e1.png">
 
+## [OTTOM NAV BAR • Flutter Widget of the Day #09](https://www.youtube.com/watch?v=qk-a_Qgc6b0&list=PLlvRDpXh1Se5LTJZDrUF9h1_1AT4Raxjd&index=10)
+<img width="100" alt="スクリーンショット 2023-04-26 20 25 50" src="https://user-images.githubusercontent.com/47273077/234561079-72eabe7c-739d-42bf-b1e9-2b9a777c3c84.png">
+
+
+
