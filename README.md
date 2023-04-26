@@ -29,3 +29,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## [Round Corners • Flutter Widget of the Day #05](https://www.youtube.com/watch?v=yxYntGhRzGM&list=PLlvRDpXh1Se5LTJZDrUF9h1_1AT4Raxjd&index=5)
 <img width="100" alt="スクリーンショット 2023-04-26 17 04 41" src="https://user-images.githubusercontent.com/47273077/234510708-99111047-e54b-42a5-aec8-6c69e07476a6.png">
+
+## [IMAGE ASSET • Flutter Widget of the Day #06](https://www.youtube.com/watch?v=6TmpjwKX9AU&list=PLlvRDpXh1Se5LTJZDrUF9h1_1AT4Raxjd&index=6)
+<img width="100" alt="スクリーンショット 2023-04-26 17 28 31" src="https://user-images.githubusercontent.com/47273077/234516762-716d55cf-7efc-465f-96dc-062f01ff6a62.png">
