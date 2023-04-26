@@ -38,5 +38,5 @@ samples, guidance on mobile development, and a full API reference.
 ## [IMAGE ASSET • Flutter Widget of the Day #06](https://www.youtube.com/watch?v=6TmpjwKX9AU&list=PLlvRDpXh1Se5LTJZDrUF9h1_1AT4Raxjd&index=6)
 <img width="100" alt="スクリーンショット 2023-04-26 17 28 31" src="https://user-images.githubusercontent.com/47273077/234516762-716d55cf-7efc-465f-96dc-062f01ff6a62.png">
 
-## [https://www.youtube.com/watch?v=nUBMK7UEQ1Q&list=PLlvRDpXh1Se5LTJZDrUF9h1_1AT4Raxjd&index=7](https://www.youtube.com/watch?v=nUBMK7UEQ1Q&list=PLlvRDpXh1Se5LTJZDrUF9h1_1AT4Raxjd&index=7)
+## [GRIDVIEW & BUILDER • Flutter Widget of the Day #07](https://www.youtube.com/watch?v=nUBMK7UEQ1Q&list=PLlvRDpXh1Se5LTJZDrUF9h1_1AT4Raxjd&index=7)
 <img width="100" alt="スクリーンショット 2023-04-26 18 03 00" src="https://user-images.githubusercontent.com/47273077/234526109-8010a3e1-5476-4bed-93a8-0cc4fbcbc019.png">
