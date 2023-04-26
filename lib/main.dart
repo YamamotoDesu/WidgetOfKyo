@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:widget_of_the_kyo/5_round_corner/round_corner.dart';
+import 'package:widget_of_the_kyo/6_image_asset/image_asset.dart';
 
 void main() {
   runApp(const MyApp());
@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: HomePage5(),
+      home: HomePage6(),
     );
   }
 }
