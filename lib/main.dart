@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:widget_of_the_kyo/9_bottom_nav_bar/bottom_nav_bar.dart';
+import 'package:widget_of_the_kyo/10_appbar/appbar.dart';
 
 void main() {
   runApp(const MyApp());
@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: HomePage9(),
+      home: HomePage10(),
     );
   }
 }
