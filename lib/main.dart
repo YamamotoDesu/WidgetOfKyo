@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:widget_of_the_kyo/6_image_asset/image_asset.dart';
+import 'package:widget_of_the_kyo/7_gridview_builder/gridview_builder.dart';
 
 void main() {
   runApp(const MyApp());
@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: HomePage6(),
+      home: HomePage7(),
     );
   }
 }
