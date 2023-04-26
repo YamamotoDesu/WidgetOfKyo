@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:widget_of_the_kyo/7_gridview_builder/gridview_builder.dart';
+import 'package:widget_of_the_kyo/8_gesture_detector/gesture_detector.dart';
 
 void main() {
   runApp(const MyApp());
@@ -16,7 +16,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: HomePage7(),
+      home: HomePage8(),
     );
   }
 }
