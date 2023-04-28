@@ -64,3 +64,6 @@ samples, guidance on mobile development, and a full API reference.
 ## [TAB BAR • Flutter Widget of the Day #13](https://www.youtube.com/watch?v=XSheN4Lkhpc)
 
 <img width="100" alt="スクリーンショット 2023-04-28 14 18 58" src="https://user-images.githubusercontent.com/47273077/235060548-015de309-e0b8-4686-9641-f386b147994d.png">
+
+## [ANIMATED CONTAINER • Flutter Widget of the Day #14](https://www.youtube.com/watch?v=kWIrhqhCVBk)
+
