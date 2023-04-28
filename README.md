@@ -73,3 +73,9 @@ samples, guidance on mobile development, and a full API reference.
 
 <img width="100" alt="スクリーンショット 2023-04-28 15 29 22" src="https://user-images.githubusercontent.com/47273077/235071422-d73eeb6f-5ec4-4b60-83e0-8546041675c4.png">
 
+## [ALERT DIALOG • Flutter Widget of the Day #16](https://www.youtube.com/watch?v=3G497C9uy0M)
+
+<img width="100" alt="スクリーンショット 2023-04-28 15 48 19" src="https://user-images.githubusercontent.com/47273077/235074970-5a8888d4-0ea1-40fa-82c3-91c0b989046b.png">
+
+<img width="100" alt="スクリーンショット 2023-04-28 15 48 55" src="https://user-images.githubusercontent.com/47273077/235075088-7cb9aded-cc59-4737-ac79-009400b26346.png">
+
