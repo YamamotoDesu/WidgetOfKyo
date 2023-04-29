@@ -122,7 +122,7 @@ samples, guidance on mobile development, and a full API reference.
 ## ListWheelScrollView #27
 <img width="100" alt="スクリーンショット 2023-04-29 15 07 25" src="https://user-images.githubusercontent.com/47273077/235286860-adddf38f-66ea-4d37-a74b-6aa66b677154.png">
 
-## ListWheelScrollView #28
+## LinearGradient #28
 
 <img width="100" alt="スクリーンショット 2023-04-29 15 12 43" src="https://user-images.githubusercontent.com/47273077/235287041-84766c84-04b9-4c62-af75-07207af397cd.png">
 
