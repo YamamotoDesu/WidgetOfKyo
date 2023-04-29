@@ -102,3 +102,7 @@ samples, guidance on mobile development, and a full API reference.
 ## [How to get User Input from the Keyboard • Flutter Widget of the Day #22](https://www.youtube.com/watch?v=LFQgZc4oKa4)
 
 <img width="100" alt="スクリーンショット 2023-04-29 12 00 39" src="https://user-images.githubusercontent.com/47273077/235280527-33b40498-25f4-4b9a-940f-170d40f327ae.png">
+
+## [Really Cool Animated Icons • Flutter Widget of the Day #23](https://www.youtube.com/watch?v=j6f8lTV6D50)
+
+<img width="100" alt="スクリーンショット 2023-04-29 12 13 37" src="https://user-images.githubusercontent.com/47273077/235280939-078fa290-8e4e-4686-8686-871fb16e1df6.png">
