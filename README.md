@@ -98,3 +98,7 @@ samples, guidance on mobile development, and a full API reference.
 ## [Stack Widgets On Top of Eachother • Flutter Widget of the Day #21](https://www.youtube.com/watch?v=_t1nEcOgqes)
 
 <img width="100" alt="スクリーンショット 2023-04-29 11 25 52" src="https://user-images.githubusercontent.com/47273077/235279425-70c6ea95-a5ba-46fd-9473-686216f0d162.png">
+
+## [How to get User Input from the Keyboard • Flutter Widget of the Day #22](https://www.youtube.com/watch?v=LFQgZc4oKa4)
+
+<img width="100" alt="スクリーンショット 2023-04-29 12 00 39" src="https://user-images.githubusercontent.com/47273077/235280527-33b40498-25f4-4b9a-940f-170d40f327ae.png">
