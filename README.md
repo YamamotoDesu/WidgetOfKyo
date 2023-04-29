@@ -106,3 +106,9 @@ samples, guidance on mobile development, and a full API reference.
 ## [Really Cool Animated Icons • Flutter Widget of the Day #23](https://www.youtube.com/watch?v=j6f8lTV6D50)
 
 <img width="100" alt="スクリーンショット 2023-04-29 12 13 37" src="https://user-images.githubusercontent.com/47273077/235280939-078fa290-8e4e-4686-8686-871fb16e1df6.png">
+
+## [Simple SLIDER • Flutter Widget of the Day #24](https://www.youtube.com/watch?v=c2Gz8siAqSQ)
+
+<img width="100" alt="スクリーンショット 2023-04-29 12 26 56" src="https://user-images.githubusercontent.com/47273077/235281377-799684e6-f8e7-4872-8341-7b56241a2dfc.png">
+
+
