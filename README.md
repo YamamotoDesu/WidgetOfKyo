@@ -130,3 +130,7 @@ samples, guidance on mobile development, and a full API reference.
 
 <img width="100" alt="スクリーンショット 2023-04-29 15 29 04" src="https://user-images.githubusercontent.com/47273077/235287594-5f51c91f-453e-4f39-89cf-09078855c5ef.png">
 
+## FloatingActionButton #30
+
+<img width="100" alt="スクリーンショット 2023-04-29 15 37 54" src="https://user-images.githubusercontent.com/47273077/235287893-cbcdfad6-505b-4213-aac4-6fbff861e516.png">
+
