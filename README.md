@@ -82,3 +82,8 @@ samples, guidance on mobile development, and a full API reference.
 ## [TEXT & STYLING • Flutter Widget of the Day #17](https://www.youtube.com/watch?v=NZl5fan36uw&list=PLlvRDpXh1Se5LTJZDrUF9h1_1AT4Raxjd&index=17)
 
 <img width="100" alt="スクリーンショット 2023-04-28 19 47 49" src="https://user-images.githubusercontent.com/47273077/235128401-90bc9903-7a38-4ef0-b21b-7d8c37d68118.png">
+
+## [RICH TEXT • Flutter Widget of the Day #18](https://www.youtube.com/watch?v=RxsGTc6cmCQ)
+
+<img width="100" alt="スクリーンショット 2023-04-29 10 40 21" src="https://user-images.githubusercontent.com/47273077/235277656-4f8ac068-3321-462d-9f29-6c8a54201ae6.png">
+
