@@ -60,13 +60,13 @@ flutter:
 
   # To add assets to your application, add an assets section, like this:
   assets:
-    - assets/playstore.png
-    - assets/images/democracy.jpeg
-    - assets/images/batman.jpeg
-    - assets/images/pngegg.png
-    - assets/images/marvel_heroes/ant-man.jpeg
-    - assets/images/marvel_heroes/captain-america.jpeg
-
+    - assets/images/
+    - assets/images/marvel_heroes/
+    - assets/images/animals/
+    - assets/images/safe_area/
+    - assets/images/profile_pic/
+    - assets/images/background_image/
+    
   # An image asset can refer to one or more resolution-specific "variants", see
   # https://flutter.dev/assets-and-images/#resolution-aware
 
