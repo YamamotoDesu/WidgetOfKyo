@@ -153,3 +153,6 @@ samples, guidance on mobile development, and a full API reference.
 ## Clipper #35
 
 <img width="100" alt="スクリーンショット 2023-04-30 16 15 03" src="https://user-images.githubusercontent.com/47273077/235340765-e342a1ea-8b78-4df7-b220-7b840f1a412f.png">
+
+## RotatedBox #36
+<img width="100" alt="スクリーンショット 2023-04-30 16 28 58" src="https://user-images.githubusercontent.com/47273077/235341280-2c834a78-59c3-4223-b5e0-b0ed6642d0ff.png">
