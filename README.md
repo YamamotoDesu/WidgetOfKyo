@@ -163,4 +163,7 @@ samples, guidance on mobile development, and a full API reference.
 ## Positioned #38
 <img width="100" alt="スクリーンショット 2023-04-30 16 58 30" src="https://user-images.githubusercontent.com/47273077/235342359-90efb1f0-177f-4b92-b80e-da46e5fab9e6.png">
 
+## CustomPaint #39
+
+<img width="100" alt="スクリーンショット 2023-04-30 17 51 14" src="https://user-images.githubusercontent.com/47273077/235344372-e5e01b60-089e-4bab-88fd-69969e97cbed.png">
 
