@@ -180,3 +180,9 @@ samples, guidance on mobile development, and a full API reference.
 ## ClipPath #43
 
 <img width="100" alt="スクリーンショット 2023-04-30 18 17 17" src="https://user-images.githubusercontent.com/47273077/235345460-54fec1f2-978a-4fca-9707-9756978a575d.png">
+
+## Radial & Sweep Gradient #44
+
+<img width="100" alt="スクリーンショット 2023-04-30 18 33 30" src="https://user-images.githubusercontent.com/47273077/235346114-23e631d6-4d28-4bfa-8e49-4903a4491595.png">
+
+
