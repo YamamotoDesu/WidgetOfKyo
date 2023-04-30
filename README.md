@@ -190,3 +190,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Table #46
 <img width="100" alt="スクリーンショット 2023-04-30 19 30 41" src="https://user-images.githubusercontent.com/47273077/235348286-5d1c69e9-067d-4d71-bd8e-16c0a903f004.png">
+
+## DataTable #47
+<img width="100" alt="スクリーンショット 2023-04-30 19 53 08" src="https://user-images.githubusercontent.com/47273077/235349121-1a5c0278-c878-4496-9478-589b587aef28.png">
