@@ -150,3 +150,6 @@ samples, guidance on mobile development, and a full API reference.
 
 <img width="100" alt="スクリーンショット 2023-04-30 16 01 44" src="https://user-images.githubusercontent.com/47273077/235340250-00624755-5c1d-4dee-b55b-9151d1522be3.png">
 
+## Clipper #35
+
+<img width="100" alt="スクリーンショット 2023-04-30 16 15 03" src="https://user-images.githubusercontent.com/47273077/235340765-e342a1ea-8b78-4df7-b220-7b840f1a412f.png">
