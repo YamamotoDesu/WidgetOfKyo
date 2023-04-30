@@ -170,3 +170,6 @@ samples, guidance on mobile development, and a full API reference.
 ## ClipOval  #40
 
 <img width="100" alt="スクリーンショット 2023-04-30 17 54 43" src="https://user-images.githubusercontent.com/47273077/235344535-731ec060-a196-46de-b73c-f9d79d670517.png">
+
+## ClipRRect #41
+<img width="100" alt="スクリーンショット 2023-04-30 18 02 24" src="https://user-images.githubusercontent.com/47273077/235344832-cc6c74d4-05ab-4e4d-a23f-c68b32212cea.png">
