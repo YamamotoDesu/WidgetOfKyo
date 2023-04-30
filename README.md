@@ -145,3 +145,8 @@ samples, guidance on mobile development, and a full API reference.
 ## Navigator  #33
 
 <img width="100" alt="スクリーンショット 2023-04-30 15 49 33" src="https://user-images.githubusercontent.com/47273077/235339839-23a74f8f-57ee-4f09-aa7a-37a4fed7e957.png">
+
+## Card #34
+
+<img width="100" alt="スクリーンショット 2023-04-30 16 01 44" src="https://user-images.githubusercontent.com/47273077/235340250-00624755-5c1d-4dee-b55b-9151d1522be3.png">
+
