@@ -211,3 +211,6 @@ samples, guidance on mobile development, and a full API reference.
 ## DropDown&Popup #52
 
 <img width="100" alt="スクリーンショット 2023-04-30 21 39 02" src="https://user-images.githubusercontent.com/47273077/235353436-b9b7237c-99f5-4676-b272-aeeef44d2c9b.png">
+
+## HeroAnimation #53
+<img width="100" alt="スクリーンショット 2023-05-01 7 39 53" src="https://user-images.githubusercontent.com/47273077/235379229-9bf89704-6fc5-4fb7-8188-ff1426797f15.png">
