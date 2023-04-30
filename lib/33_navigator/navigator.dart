@@ -1,0 +1,22 @@
+import 'package:flutter/material.dart';
+
+import 'pages/screen0.dart';
+import 'pages/screen1.dart';
+import 'pages/screen2.dart';
+
+class HomePage33 extends StatelessWidget {
+  const HomePage33({super.key});
+
+  @override
+  Widget build(BuildContext context) {
+    return MaterialApp(
+      debugShowCheckedModeBanner: false,
+      initialRoute: '/',
+      routes: {
+        '/': (context) => const Screen0(),
+        '/first': (context) => const Screen1(),
+        '/second': (context) => const Screen2(),
+      },
+    );
+  }
+}
