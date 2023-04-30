@@ -175,5 +175,8 @@ samples, guidance on mobile development, and a full API reference.
 <img width="100" alt="スクリーンショット 2023-04-30 18 02 24" src="https://user-images.githubusercontent.com/47273077/235344832-cc6c74d4-05ab-4e4d-a23f-c68b32212cea.png">
 
 ## ClipRect #42
+<img width="100" alt="スクリーンショット 2023-04-30 18 22 31" src="https://user-images.githubusercontent.com/47273077/235345688-7d460b9e-1d14-4932-9824-f946d2b94eda.png">
+
+## ClipPath #43
 
 <img width="100" alt="スクリーンショット 2023-04-30 18 17 17" src="https://user-images.githubusercontent.com/47273077/235345460-54fec1f2-978a-4fca-9707-9756978a575d.png">
