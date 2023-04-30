@@ -141,3 +141,7 @@ samples, guidance on mobile development, and a full API reference.
 ## IconButton #32
 
 <img width="100" alt="スクリーンショット 2023-04-30 15 30 58" src="https://user-images.githubusercontent.com/47273077/235339209-3f2124e9-e18b-47aa-8d76-29298cb9f32d.png">
+
+## Navigator  #33
+
+<img width="100" alt="スクリーンショット 2023-04-30 15 49 33" src="https://user-images.githubusercontent.com/47273077/235339839-23a74f8f-57ee-4f09-aa7a-37a4fed7e957.png">
