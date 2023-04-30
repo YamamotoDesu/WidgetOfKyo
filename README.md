@@ -134,3 +134,6 @@ samples, guidance on mobile development, and a full API reference.
 
 <img width="100" alt="スクリーンショット 2023-04-29 15 37 54" src="https://user-images.githubusercontent.com/47273077/235287893-cbcdfad6-505b-4213-aac4-6fbff861e516.png">
 
+## RawMaterialButton #31
+
+<img width="100" alt="スクリーンショット 2023-04-30 15 21 13" src="https://user-images.githubusercontent.com/47273077/235338931-0e99527c-5b5b-4996-9fce-91d894927842.png">
