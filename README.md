@@ -214,3 +214,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## HeroAnimation #53
 <img width="100" alt="スクリーンショット 2023-05-01 7 39 53" src="https://user-images.githubusercontent.com/47273077/235379229-9bf89704-6fc5-4fb7-8188-ff1426797f15.png">
+
+## AboutDialog #54
+<img width="100" alt="スクリーンショット 2023-05-01 7 48 28" src="https://user-images.githubusercontent.com/47273077/235379498-4a0009bb-6f12-4a9d-a4cb-417a4a2018b2.png">
