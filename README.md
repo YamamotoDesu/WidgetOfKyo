@@ -167,3 +167,6 @@ samples, guidance on mobile development, and a full API reference.
 
 <img width="100" alt="スクリーンショット 2023-04-30 17 51 14" src="https://user-images.githubusercontent.com/47273077/235344372-e5e01b60-089e-4bab-88fd-69969e97cbed.png">
 
+## ClipOval  #40
+
+<img width="100" alt="スクリーンショット 2023-04-30 17 54 43" src="https://user-images.githubusercontent.com/47273077/235344535-731ec060-a196-46de-b73c-f9d79d670517.png">
