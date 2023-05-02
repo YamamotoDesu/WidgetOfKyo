@@ -221,3 +221,6 @@ samples, guidance on mobile development, and a full API reference.
 ## Stepper #55
 <img width="100" alt="スクリーンショット 2023-05-02 12 26 55" src="https://user-images.githubusercontent.com/47273077/235573316-38f55fd3-28f1-41ac-b368-3a37af381c37.png">
 
+## FittedBox #56
+
+<img width="100" alt="スクリーンショット 2023-05-02 12 31 33" src="https://user-images.githubusercontent.com/47273077/235573797-4948e4f1-665f-4195-b203-473637199eb8.png">
