@@ -237,3 +237,7 @@ samples, guidance on mobile development, and a full API reference.
 
 <img width="100" alt="スクリーンショット 2023-05-02 12 59 39" src="https://user-images.githubusercontent.com/47273077/235576513-60c78425-33fa-42b8-9e5d-5fdc036d85cb.png">
 
+## ChoiceChip #60
+
+<img width="100" alt="スクリーンショット 2023-05-02 13 03 25" src="https://user-images.githubusercontent.com/47273077/235576858-f007309e-eb8b-4188-b407-cc9dcee87855.png">
+
