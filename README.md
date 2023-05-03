@@ -268,3 +268,7 @@ samples, guidance on mobile development, and a full API reference.
 ## Spacer #67
 
 <img width="100" alt="スクリーンショット 2023-05-03 10 45 30" src="https://user-images.githubusercontent.com/47273077/235819031-0f2edc60-e152-4085-add3-15a8c5a5c048.png">
+
+## GridPaper #68
+
+<img width="100" alt="スクリーンショット 2023-05-03 10 47 47" src="https://user-images.githubusercontent.com/47273077/235819192-ba4a0701-8703-416c-8c8b-29063fc1d12a.png">
