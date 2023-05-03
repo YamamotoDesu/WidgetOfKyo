@@ -272,3 +272,7 @@ samples, guidance on mobile development, and a full API reference.
 ## GridPaper #68
 
 <img width="100" alt="スクリーンショット 2023-05-03 10 47 47" src="https://user-images.githubusercontent.com/47273077/235819192-ba4a0701-8703-416c-8c8b-29063fc1d12a.png">
+
+## InteractiveViewer #69
+
+<img width="100" alt="スクリーンショット 2023-05-03 10 50 31" src="https://user-images.githubusercontent.com/47273077/235819378-440abcca-92e4-4586-b472-c1fb73c09f14.png">
