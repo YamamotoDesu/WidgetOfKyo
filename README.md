@@ -254,4 +254,10 @@ samples, guidance on mobile development, and a full API reference.
 <img width="100" alt="スクリーンショット 2023-05-03 10 23 13" src="https://user-images.githubusercontent.com/47273077/235817280-e21f86e5-3bb2-4b3c-befa-08e80e1b3ae3.png">
 
 ## AhowModelBottomSheet #64
+
 <img width="100" alt="スクリーンショット 2023-05-03 10 27 38" src="https://user-images.githubusercontent.com/47273077/235817613-fdbbfc81-4941-49c0-829e-678675a5010e.png">
+
+## AnimatedCrossFade #65
+
+<img width="100" alt="スクリーンショット 2023-05-03 10 36 10" src="https://user-images.githubusercontent.com/47273077/235818260-134d587b-7ec5-4b16-b450-b0568cce21a7.png">
+
