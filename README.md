@@ -305,3 +305,8 @@ samples, guidance on mobile development, and a full API reference.
 ## ToggleButton #76
 
 <img width="100" alt="スクリーンショット 2023-05-04 10 50 41" src="https://user-images.githubusercontent.com/47273077/236091734-530cb1f4-5473-4abc-970f-2391df56aaa0.png">
+
+## Physical Model #77
+
+<img width="100" alt="スクリーンショット 2023-05-04 13 18 24" src="https://user-images.githubusercontent.com/47273077/236111658-c8e98e86-ee14-48e4-9c7a-0a9a28d3638d.png">
+
