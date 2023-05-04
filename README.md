@@ -295,6 +295,6 @@ samples, guidance on mobile development, and a full API reference.
 
 ## ImageFiltered #74
 
-<img width="513" alt="スクリーンショット 2023-05-04 10 31 52" src="https://user-images.githubusercontent.com/47273077/236089000-d2762d6b-ad7b-4d90-9811-769aba818134.png">
+<img width="100" alt="スクリーンショット 2023-05-04 10 31 52" src="https://user-images.githubusercontent.com/47273077/236089000-d2762d6b-ad7b-4d90-9811-769aba818134.png">
 
 
