@@ -302,7 +302,5 @@ samples, guidance on mobile development, and a full API reference.
 <img width="100" alt="スクリーンショット 2023-05-04 10 36 34" src="https://user-images.githubusercontent.com/47273077/236089912-16f64828-c271-467e-9244-8d0159044b2b.png">
 
 
-## AspectRatio #76
-
-<img width="100" alt="スクリーンショット 2023-05-04 10 38 01" src="https://user-images.githubusercontent.com/47273077/236090298-bbe69465-ac59-4566-b9d1-6777cb44c741.png">
+## ToggleButton #76
 
