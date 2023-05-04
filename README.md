@@ -310,3 +310,7 @@ samples, guidance on mobile development, and a full API reference.
 
 <img width="100" alt="スクリーンショット 2023-05-04 13 18 24" src="https://user-images.githubusercontent.com/47273077/236111658-c8e98e86-ee14-48e4-9c7a-0a9a28d3638d.png">
 
+## Align #78
+
+<img width="100" alt="スクリーンショット 2023-05-04 13 46 14" src="https://user-images.githubusercontent.com/47273077/236114531-8e0b2eb2-cc35-499b-9933-f22256655305.png">
+
