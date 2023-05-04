@@ -284,3 +284,8 @@ samples, guidance on mobile development, and a full API reference.
 ## SelectableText #71
 
 <img width="100" alt="スクリーンショット 2023-05-04 10 15 12" src="https://user-images.githubusercontent.com/47273077/236085147-27ed30fb-e5ee-4807-b4f8-31394c9692c3.png">
+
+## AnimatedPadding #72
+
+<img width="100" alt="スクリーンショット 2023-05-04 10 22 37" src="https://user-images.githubusercontent.com/47273077/236086832-82bbf3cb-5732-469c-89b8-29e08b3d29f6.png">
+
