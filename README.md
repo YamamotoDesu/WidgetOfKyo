@@ -280,3 +280,7 @@ samples, guidance on mobile development, and a full API reference.
 ## CheckboxListTile #70
 
 <img width="100" alt="スクリーンショット 2023-05-03 10 55 08" src="https://user-images.githubusercontent.com/47273077/235819751-9ff1e15f-e04e-445e-8859-c8c6230c9d96.png">
+
+## SelectableText #71
+
+<img width="100" alt="スクリーンショット 2023-05-04 10 15 12" src="https://user-images.githubusercontent.com/47273077/236085147-27ed30fb-e5ee-4807-b4f8-31394c9692c3.png">
