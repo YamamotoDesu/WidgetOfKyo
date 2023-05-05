@@ -314,3 +314,6 @@ samples, guidance on mobile development, and a full API reference.
 
 <img width="100" alt="スクリーンショット 2023-05-04 13 46 14" src="https://user-images.githubusercontent.com/47273077/236114531-8e0b2eb2-cc35-499b-9933-f22256655305.png">
 
+## SafeArea #79
+<img width="100" alt="スクリーンショット 2023-05-05 16 45 23" src="https://user-images.githubusercontent.com/47273077/236402986-75271cb3-5b28-4dfa-b891-0d20efeda668.png">
+
