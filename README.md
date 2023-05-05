@@ -317,3 +317,8 @@ samples, guidance on mobile development, and a full API reference.
 ## SafeArea #79
 <img width="100" alt="スクリーンショット 2023-05-05 16 45 23" src="https://user-images.githubusercontent.com/47273077/236402986-75271cb3-5b28-4dfa-b891-0d20efeda668.png">
 
+## PagerouteBuilder #80
+
+<img width="100" alt="スクリーンショット 2023-05-05 16 51 37" src="https://user-images.githubusercontent.com/47273077/236404091-eea290ea-59c4-486c-a097-6aa5c2a66009.png">
+
+
