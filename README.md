@@ -353,3 +353,8 @@ samples, guidance on mobile development, and a full API reference.
 ## IndexedStack #88
 
 <img width="100" alt="スクリーンショット 2023-05-07 12 41 45" src="https://user-images.githubusercontent.com/47273077/236656443-b0ebf3f1-8d0f-4061-a940-814729acc7f5.png">
+
+## Navigator 2.0 #89
+
+<img width="100" alt="スクリーンショット 2023-05-07 12 51 20" src="https://user-images.githubusercontent.com/47273077/236656664-24c98915-dda0-4b79-ae7c-be7eefa4d4f0.png">
+
