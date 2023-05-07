@@ -345,3 +345,7 @@ samples, guidance on mobile development, and a full API reference.
 ## Tooltip #86
 
 <img width="100" alt="スクリーンショット 2023-05-07 12 33 05" src="https://user-images.githubusercontent.com/47273077/236656212-4066cd5f-8eec-4587-8895-682a63d8868b.png">
+
+## Visibility #87
+
+<img width="100" alt="スクリーンショット 2023-05-07 12 38 02" src="https://user-images.githubusercontent.com/47273077/236656327-9e460b0d-6ae5-4d0a-8e52-8ecc66b7ad24.png">
