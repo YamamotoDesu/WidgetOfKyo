@@ -338,7 +338,7 @@ samples, guidance on mobile development, and a full API reference.
 
 <img width="100" alt="スクリーンショット 2023-05-06 12 55 00" src="https://user-images.githubusercontent.com/47273077/236598413-8aca0d8d-a5f6-44bf-8466-f4bd25d51a6e.png">
 
-## FadeTransition #85
+## CircleAvatar #85
 
 <img width="100" alt="スクリーンショット 2023-05-07 12 28 32" src="https://user-images.githubusercontent.com/47273077/236656092-fedee246-990e-4983-9b77-4dd3c81376a2.png">
 
