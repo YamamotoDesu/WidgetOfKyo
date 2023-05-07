@@ -349,3 +349,7 @@ samples, guidance on mobile development, and a full API reference.
 ## Visibility #87
 
 <img width="100" alt="スクリーンショット 2023-05-07 12 38 02" src="https://user-images.githubusercontent.com/47273077/236656327-9e460b0d-6ae5-4d0a-8e52-8ecc66b7ad24.png">
+
+## IndexedStack #88
+
+<img width="100" alt="スクリーンショット 2023-05-07 12 41 45" src="https://user-images.githubusercontent.com/47273077/236656443-b0ebf3f1-8d0f-4061-a940-814729acc7f5.png">
