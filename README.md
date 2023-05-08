@@ -369,3 +369,7 @@ samples, guidance on mobile development, and a full API reference.
 ## Inherited Widget #92
 
 <img width="100" alt="スクリーンショット 2023-05-08 21 47 13" src="https://user-images.githubusercontent.com/47273077/236827929-bccd491f-d7d6-4fc9-8282-06a843dd7480.png">
+
+## Fractionally Sizedbox #93
+
+<img width="100" alt="スクリーンショット 2023-05-08 21 56 01" src="https://user-images.githubusercontent.com/47273077/236829812-58928968-abea-49d4-b06f-4241ee548488.png">
