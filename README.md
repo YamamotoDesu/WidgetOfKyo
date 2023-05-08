@@ -366,4 +366,6 @@ samples, guidance on mobile development, and a full API reference.
 
 <img width="100" alt="スクリーンショット 2023-05-08 21 36 24" src="https://user-images.githubusercontent.com/47273077/236825494-096ac480-668c-43cf-8743-a3db8f9f70ba.png">
 
+## Inherited Widget #92
 
+<img width="100" alt="スクリーンショット 2023-05-08 21 47 13" src="https://user-images.githubusercontent.com/47273077/236827929-bccd491f-d7d6-4fc9-8282-06a843dd7480.png">
