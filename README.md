@@ -373,3 +373,7 @@ samples, guidance on mobile development, and a full API reference.
 ## Fractionally Sizedbox #93
 
 <img width="100" alt="スクリーンショット 2023-05-08 21 56 01" src="https://user-images.githubusercontent.com/47273077/236829812-58928968-abea-49d4-b06f-4241ee548488.png">
+
+## Constrained Box #94
+
+<img width="100" alt="スクリーンショット 2023-05-08 22 00 36" src="https://user-images.githubusercontent.com/47273077/236830760-30ebddae-65dd-4888-9761-28adf0b282e3.png">
