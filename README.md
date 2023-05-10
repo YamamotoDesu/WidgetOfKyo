@@ -381,3 +381,9 @@ samples, guidance on mobile development, and a full API reference.
 ## Cupertino Search # 95
 
 <img width="100" alt="スクリーンショット 2023-05-10 21 24 27" src="https://github.com/YamamotoDesu/WidgetOfKyo/assets/47273077/c57accdf-d657-47e3-821d-37b7d7e34242">
+
+## Stateful Builder #96
+
+<img width="100" alt="スクリーンショット 2023-05-10 21 28 07" src="https://github.com/YamamotoDesu/WidgetOfKyo/assets/47273077/16db6126-0383-4aaa-9ab5-f1504eb4df38">
+
+
