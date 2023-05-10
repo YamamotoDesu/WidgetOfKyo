@@ -377,3 +377,7 @@ samples, guidance on mobile development, and a full API reference.
 ## Constrained Box #94
 
 <img width="100" alt="スクリーンショット 2023-05-08 22 00 36" src="https://user-images.githubusercontent.com/47273077/236830760-30ebddae-65dd-4888-9761-28adf0b282e3.png">
+
+## Cupertino Search # 95
+
+<img width="100" alt="スクリーンショット 2023-05-10 21 24 27" src="https://github.com/YamamotoDesu/WidgetOfKyo/assets/47273077/c57accdf-d657-47e3-821d-37b7d7e34242">
